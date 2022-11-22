@@ -1,0 +1,104 @@
+{
+    "Hamburger": [
+      {
+        "id": "1",
+        "nome": "Okla-classic",
+        "carne": "Blend 120g",
+        "ingredientes": "alface, tomate, cebola",
+        "imagem": "https://www.minervafoods.com/wp-content/uploads/2016/06/como_fazer_hamburguer_caseiro.jpg",
+        "preço":"31,00R$"
+    
+      },
+      {
+        "id": "2",
+        "nome": "Okla-bacon",
+        "carne": "Blend 120g",
+        "ingredientes": "mix de queijo, bacon",
+        "imagem": "https://www.top5rio.com.br/uploads/57f2de7c0a351_gastronomia_hamburguer-bacon_burgertopia.jpg",
+        "preço":"37,00R$"
+      },
+      {
+       "id": "3",
+        "nome": "Okla-grill",
+        "carne": "Frango 95g",
+        "ingredientes": "alface, tomate, cebola",
+        "imagem": "https://st2.depositphotos.com/1031681/5683/i/450/depositphotos_56835479-stock-photo-burger-with-grilled-chicken-and.jpg",
+        "preço":"29,00R$"
+    
+      },
+      {
+        "id": "4",
+        "nome": "Okla-smash",
+        "carne": "Blend 80g",
+        "ingredientes": "molho especial, alface, tomate",
+        "imagem": "http://3.bp.blogspot.com/-xwseN3B_F0Y/T2d-ttwv0lI/AAAAAAAAFzU/4qD8EY_8w04/s1600/Burger+King+%C2%AE.jpg",
+        "preço":"18,00R$"
+      }
+    ],
+    "Batata": [
+            {
+              "id": "1",
+        "nome": "Okla-mini",
+        "quantidade": "40g",
+        "ingredientes": "sal, parpica",
+        "imagem": "https://www.nutrifrios.com.br/wp-content/uploads/2018/11/ondulada-2.jpg",
+        "preço": "8,00R$"
+
+        },
+            {"id": "2",
+        "nome": "Okla-media",
+        "quantidade": "80g",
+        "ingredientes": "sal, parpica",
+        "imagem": "https://www.nutrifrios.com.br/wp-content/uploads/2018/11/ondulada-2.jpg",
+        "preço":"12,00R$"
+        },
+            {"id": "3",
+        "nome": "Okla-grande",
+        "quantidade": "150g",
+        "ingredientes": "sal, parpica",
+        "imagem": "https://www.nutrifrios.com.br/wp-content/uploads/2018/11/ondulada-2.jpg",
+        "preço":"16,00R$"
+        },
+            {"id": "4",
+        "nome": "Okla-recheada",
+        "quantidade": "190g",
+        "ingredientes": "sal, parpica, molho cheddar, bacon picado",
+        "imagem": "https://www.sabornamesa.com.br/media/k2/items/cache/94ea69ba6d138bccade59f45aa6f86ca_XL.jpg",
+        "preço":"25,00R$"
+        }
+    ],
+    "Porções": [
+            {"id": "1",
+        "nome": "Okla-onion",
+        "unidades": "8 unidades",
+        "ingredientes": "cebola, farinha trigo",
+        "imagem": "https://www.prezunic.com.br/cms21/wp-content/uploads/2020/11/dia-da-feira-cebola-empanada-nota.png",
+        "preço":"19,00R$"
+
+        },
+         {
+             "id": "2",
+        "nome": "Okla-crispy",
+        "unidades": "10 unididades",
+        "ingredientes": "peito de frango, farinha rosca",
+        "imagem": "https://www.anamariabrogui.com.br/assets/uploads/receitas/fotos/usuario-2143-a279f17c19ccbbc25a4e61f5784ee751.jpg",
+        "preço":"27,00R$"
+        },
+        {
+          "id": "3",
+        "nome": "Okla-nugget",
+        "unidades": " 6 unidades",
+        "ingredientes": "file de frango, farinha rosca",
+        "imagem": "https://pt.petitchef.com/imgupl/recipe/nuggets-de-frango-facil-e-saboroso--456438p710106.jpg",
+        "preço":"13,00R$"
+        },
+             {
+              "id": "4",
+        "nome": "Okla-cheese",
+        "unidades": "10 unidades",
+        "ingredientes": "mandioca, queijo ",
+        "imagem": "https://www.frizata.com/files/products/627ab2523e878-185-4.jpg",
+        "preço":"20,00R$"
+            }
+    ]
+}
